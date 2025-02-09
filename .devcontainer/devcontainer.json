@@ -2,12 +2,5 @@
     "name": "arclabcodes.github.io",
     "dockerFile": "Dockerfile",
     "postCreateCommand": "bundle install",
-    "forwardPorts": [4000],
-    "settings": {
-      "terminal.integrated.shell.linux": "/bin/bash"
-    },
-    "extensions": [
-      "rebornix.Ruby",         // Syntax highlighting and Ruby support
-      "github.codespaces"       // (Optional) Codespaces integration
-    ]
-  }
+    "forwardPorts": [4000]
+}
