@@ -4,5 +4,3 @@ sections:
   - posts
   - guides
 ---
-
-hello world
